@@ -49,31 +49,31 @@ function LandingPage() {
           </GridItem>
           <GridItem size={"2x3"}>
             <img
-              src={"public/assets/IMG_3146.JPG"}
+              src={"/assets/IMG_3146.JPG"}
               className="object-cover w-auto max-w-full h-auto max-h-full rounded-xl"
             />
           </GridItem>
           <GridItem size={"1x1"}>
             <img
-              src={"public/assets/IMG_2577.JPG"}
+              src={"/assets/IMG_2577.JPG"}
               className="object-cover w-auto max-w-full h-auto max-h-full rounded-xl"
             />
           </GridItem>
           <GridItem size={"1x2"}>
             <img
-              src={"public/assets/IMG_1103.JPG"}
+              src={"/assets/IMG_1103.JPG"}
               className="object-cover w-auto max-w-full h-auto max-h-full rounded-xl"
             />
           </GridItem>
           <GridItem size={"1x2"}>
             <img
-              src={"public/assets/IMG_2361.JPG"}
+              src={"/assets/IMG_2361.JPG"}
               className="object-cover w-auto max-w-full h-auto max-h-full rounded-xl"
             />
           </GridItem>
           <GridItem size={"2x1"}>
             <img
-              src={"public/assets/IMG_1307.JPG"}
+              src={"/assets/IMG_1307.JPG"}
               className="object-cover w-auto max-w-full h-auto max-h-full rounded-xl"
             />
           </GridItem>
